@@ -4,6 +4,4 @@ let info = {
     nota: "Namorada do personagem principal nos quadrinhos do Pato Donald",
 };
 
-for(let indice in info){
     console.log("Bem Vinda,",info.personagem);
-}
